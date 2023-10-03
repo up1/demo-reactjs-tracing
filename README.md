@@ -1,6 +1,7 @@
 # Distributed tracing with Frontend
 * ReactJS
 * NodeJS -> express
+* Tracing server with [Jaeger](https://www.jaegertracing.io/)
 
 ## How to run
 ```
